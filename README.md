@@ -1,2 +1,3 @@
 # lake-formation-tbac-pipeline
-AWS Lake Formation Tag-based access control (TBAC) pipeline.
+
+Making use of a control or configuration file to fully automate AWS Lake Formation tag-based access control (TBAC) operations.
